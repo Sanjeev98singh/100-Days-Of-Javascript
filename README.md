@@ -27,7 +27,7 @@ This repository is a personal challenge to improve my JavaScript skills by codin
 
 | Day | Date       | Description                                      |
 |-----|------------|--------------------------------------------------|
-| 1   | YYYY-MM-DD | Introduction to JavaScript basics                |
+| 1   | 2024-08-12 | History of Javascript                            |
 | 2   | YYYY-MM-DD | Variables, Data Types, and Operators             |
 | ... | ...        | ...                                              |
 | 100 | YYYY-MM-DD | Final project and summary of the 100-day journey |
