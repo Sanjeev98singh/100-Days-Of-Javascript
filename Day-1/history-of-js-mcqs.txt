@@ -1,0 +1,37 @@
+---> Who was the creator of JavaScript?
+
+Jeff Atwood
+
+Ryan Dahl
+
+Brendan Eich <------
+
+Marc Andreessen
+
+----> In what year was JavaScript first introduced to the public?
+
+1996
+
+1995  <------
+
+1993
+
+1997
+
+------> What was the original purpose of creating JavaScript?
+
+The original purpose of creating JavaScript is to handle browsers validation and To add interactivity to the page <------
+
+------> What was the initial name of JavaScript?
+
+CoffeeScript
+
+Java
+
+Mocha    <-------
+
+LiveScript
+
+------> Is JavaScript compiled or interpreted?
+
+previously JavaScript was interpreted language but now it is not only interpreted, it is also compiled language as well. <-------
