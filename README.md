@@ -28,7 +28,7 @@ This repository is a personal challenge to improve my JavaScript skills by codin
 | Day | Date       | Description                                      |
 |-----|------------|--------------------------------------------------|
 | 1   | 2024-08-12 | History of Javascript                            |
-| 2   | YYYY-MM-DD | Variables, Data Types, and Operators             |
+| 2   | 2024-08-13 | Window Object, Console Window and Defer keyword  |
 | ... | ...        | ...                                              |
 | 100 | YYYY-MM-DD | Final project and summary of the 100-day journey |
 
