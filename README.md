@@ -28,8 +28,9 @@ This repository is a personal challenge to improve my JavaScript skills by codin
 | Day | Date       | Description                                      |
 |-----|------------|--------------------------------------------------|
 | 1   | 2024-08-12 | History of Javascript                            |
-| 2   | 2024-08-13 | Toggle common rendering emulations, Defer,       |
-|     |            | Window Object and Console Screen DevTools        |
+| 2   | 2024-08-13 | Toggle common rendering emulations,chrome devtool|
+|     |            | Window Object, Preserve log and No throttling    |
+|     |            |       |
 | 100 | YYYY-MM-DD | Final project and summary of the 100-day journey |
 
 ## Projects
