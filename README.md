@@ -30,7 +30,7 @@ This repository is a personal challenge to improve my JavaScript skills by codin
 | 1   | 2024-08-12 | History of Javascript                            |
 | 2   | 2024-08-13 | Toggle common rendering emulations,chrome devtool|
 |     |            | Window Object,Preserve log,No throttling and REPL|
-|     |            |                                                  |
+| 3   | 2024-08-14 | Null,Undefined and Bigint Data types             |
 | 100 | YYYY-MM-DD | Final project and summary of the 100-day journey |
 
 ## Projects
