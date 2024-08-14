@@ -13,8 +13,12 @@
 //  console.log(+'100abcdef') NaN
 //  console.log(parseInt('100abcdef')) 100
 //  console.log(parseInt('100abcdef10efj')) 
-number = 100 + ''
+// number = 100 + ''
 // console.log(typeof number)
-number = 100 + 'sanjeev'
+// number = 100 + 'sanjeev'
+// number = 1.99999999999999999999999999999999999999999999999999
 
-console.log(number)
+// console.log(number) 2
+
+// console.log(typeof true) // boolean
+// console.log( +true) // 1
