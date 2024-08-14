@@ -22,3 +22,8 @@
 
 // console.log(typeof true) // boolean
 // console.log( +true) // 1
+// console.log(typeof undefined) // undefined
+// console.log(typeof null)  // object
+// console.log(+null) //0
+// console.log(+undefined) // NaN
+// console.log(typeof (''+undefined)) // string
