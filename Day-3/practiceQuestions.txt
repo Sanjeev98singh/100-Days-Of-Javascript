@@ -1,0 +1,104 @@
+------> Name all kinds of different data types in JavaScript.
+
+Number string boolean null undefined bigint symbol <--------
+
+
+------>What is a 'string' data type in JavaScript? Can you give an example?
+
+the combination of characters is considered as string data type. Ex- 'sanjeev', '100', '1000abcd' etc... <------
+
+------>What does the 'boolean' data type mean in JavaScript?
+
+It represents floating-point numbers
+
+It represents whole numbers
+
+It represents true or false values <------
+
+It represents strings
+
+
+------>What does the 'undefined' data type represent in JavaScript? And how it is different from 'null'?
+
+In JavaScript, if a variable is declared but not initialized, it is considered to be of the undefined type. On the other hand, we can explicitly assign null to a variable to indicate that it currently has no value but will be assigned a value (such as a literal or string) later in the project based on requirements. <------
+
+------>What does the 'null' data type represent in JavaScript?
+
+ It represents arrays
+
+ It represents an absence of a value <--------
+
+It represents functions
+
+It represents true or false values
+
+
+--------> What data type is used to assign any number in JavaScript?
+
+integer
+
+float
+
+number   <-------
+
+double
+
+
+--------> What is an example of non-primitive data type?
+
+string
+
+undefined
+
+object  <--------
+
+boolean
+
+
+--------> What is typeof null?
+
+null
+
+undefined
+
+primitive
+
+object   <----------
+
+
+-------> How would you convert a number to a string in JavaScript?
+
+ Using the parseFloat() function
+
+ By concatenating with an empty string
+
+ Using the toString() method
+
+Both B and C <----------
+
+
+-------> How would you convert a string to a number in JavaScript?
+
+Using the toNumber() method
+
+ By concatenating with a number
+
+Using the parseInt() or parseFloat() functions   <----------
+
+By using the stringify() method
+
+
+-------> Which data type in JavaScript is used to represent large numbers?
+
+Float
+
+Double
+
+Integer
+
+BigInt <--------
+
+
+-------> Create a large number using bigint.
+
+largeNumber = 167861247944576456754656745656356565645652756n; <---------
