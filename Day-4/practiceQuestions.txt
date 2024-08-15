@@ -61,3 +61,6 @@ PascalCase
 
 kebab-case
 
+
+------> 
+Which of the following variable names is invalid in JavaScript?
