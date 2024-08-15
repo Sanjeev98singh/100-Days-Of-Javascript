@@ -48,3 +48,16 @@ Variable names are case-insensitive.
 
 
 --------> What is the recommended convention for naming variables in JavaScript?
+
+
+ camelCase  <--------
+
+
+snake_case
+
+
+PascalCase
+
+
+kebab-case
+
