@@ -31,6 +31,7 @@ This repository is a personal challenge to improve my JavaScript skills by codin
 | 2   | 2024-08-13 | Toggle common rendering emulations,chrome devtool|
 |     |            | Window Object,Preserve log,No throttling and REPL|
 | 3   | 2024-08-14 | Null,Undefined and Bigint Data types             |
+| 4   | 2024-08-15 | Difference between Let, Const and Var            |
 | 100 | YYYY-MM-DD | Final project and summary of the 100-day journey |
 
 ## Projects
@@ -45,6 +46,8 @@ This repository is a personal challenge to improve my JavaScript skills by codin
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 - [JavaScript Info](https://javascript.info/)
 - [procodrr](https://app.procodrr.com/web/activity) 
+- [Namaste JavaScript](https://namastedev.com/learn/namaste-javascript)
+- [Namaste Interview](https://namastedev.com/learn/namaste-interview)
 
 ## How to Contribute
 
