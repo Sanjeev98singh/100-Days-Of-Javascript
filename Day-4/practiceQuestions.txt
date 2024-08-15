@@ -64,3 +64,17 @@ kebab-case
 
 ------> 
 Which of the following variable names is invalid in JavaScript?
+
+
+myVariable
+
+
+_variableName
+
+
+123variable    <--------
+
+
+ $variableName
+
+
