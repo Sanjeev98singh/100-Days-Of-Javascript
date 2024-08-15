@@ -45,3 +45,6 @@ Variable names are case-insensitive.
 
  Variable names can contain spaces.
 
+
+
+--------> What is the recommended convention for naming variables in JavaScript?
