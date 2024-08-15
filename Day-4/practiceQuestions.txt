@@ -1,3 +1,15 @@
 ------> 
 What's the most basic difference between using let and const for creating variables in JavaScript?
 
+
+Variables declared with let can be reassigned, while variables declared with const cannot.  <---------
+
+
+Variables declared with const are scoped to the function level, while variables declared with let are scoped to the block level.
+
+
+Variables declared with let have global scope, while variables declared with const have local scope.
+
+
+Variables declared with const are automatically hoisted to the top of their scope, while variables declared with let are not.
+
