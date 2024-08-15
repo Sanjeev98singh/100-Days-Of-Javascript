@@ -78,3 +78,15 @@ _variableName
  $variableName
 
 
+
+------> Try to Debug the code and see where is the error coming from and fix it. Then write the correct answer in the answer box.
+
+
+const num = 5 
+num++ 
+ console.log(num + 5)
+<----- in this line error is coming 
+-----> TypeError: Assignment to constant variable. 
+----->Why we are getting error here because we cannot reassign any value and string, while working with const keyword. 
+-----> Corrected Code let num = 5 num++ console.log(num + 5) output-----> 11
+
