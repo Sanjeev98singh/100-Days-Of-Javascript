@@ -30,3 +30,6 @@ Variables declared with 'let' cannot be reassigned after initialization, while v
 
 None of the above
 
+
+-----> Which of the following statements about variable naming rules in JavaScript is correct?
+
