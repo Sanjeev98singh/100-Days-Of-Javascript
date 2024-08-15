@@ -33,3 +33,15 @@ None of the above
 
 -----> Which of the following statements about variable naming rules in JavaScript is correct?
 
+
+Variable names cannot begin with a number.     <-------
+
+
+Variable names can include special characters such as @ or #
+
+
+Variable names are case-insensitive.
+
+
+ Variable names can contain spaces.
+
