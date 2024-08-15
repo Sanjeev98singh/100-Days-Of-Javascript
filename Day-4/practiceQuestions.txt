@@ -16,3 +16,17 @@ Variables declared with const are automatically hoisted to the top of their scop
 
 
 -------> What is the difference between using 'let' and 'var' for creating variables in JavaScript?
+
+
+
+There is not difference between let and var both are same.
+
+
+let variables can not be accessed outside of a block while var variables can be accessed outside of a block    <--------
+
+
+Variables declared with 'let' cannot be reassigned after initialization, while variables declared with 'var' can be reassigned.
+
+
+None of the above
+
