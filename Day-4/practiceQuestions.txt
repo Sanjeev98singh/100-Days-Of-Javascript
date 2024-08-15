@@ -15,3 +15,4 @@ Variables declared with const are automatically hoisted to the top of their scop
 
 
 
+-------> What is the difference between using 'let' and 'var' for creating variables in JavaScript?
