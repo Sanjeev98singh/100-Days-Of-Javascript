@@ -3,3 +3,6 @@ type="text/js"     due to this type attribute js file was not working. If we rem
 
 --------> What does it mean to 'debug' a JavaScript program? And why should we learn to debug our code?
 
+The term debug means to dry run the code before executing the code.
+It is the efficient way to execute the code before running the code to get the desired output errorfree. (In simple words reviewing the code before executing) <------
+
