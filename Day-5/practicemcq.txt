@@ -98,6 +98,9 @@ To execute the script before the HTML document is parsed.
 To defer the execution of the script until all other scripts have been executed.
 
 
+--------> What is the purpose of the debugger keyword in JavaScript?
+
+
 
 
 
