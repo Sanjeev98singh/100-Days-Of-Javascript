@@ -26,3 +26,8 @@ Simultaneously, across multiple threads
 
 Depending on the complexity of the code
 
+
+
+What does the term 'line of execution' mean in JavaScript?
+
+
