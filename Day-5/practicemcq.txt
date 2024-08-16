@@ -114,6 +114,17 @@ To log errors to the console.
 
 ---------> What is the Temporal Dead Zone (TDZ) in JavaScript?
 
+ A period when variables can be declared but not assigned values.
+
+
+ The time interval between declaring a variable with let or const and its initialization.   <--------
+
+
+A period when functions can be called but variables cannot be accessed.
+
+
+A zone where all variables are assigned null values.
+
 
 
 
