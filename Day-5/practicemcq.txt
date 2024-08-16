@@ -1,1 +1,5 @@
 type="text/js"     due to this type attribute js file was not working. If we remove this file then js automatically will start working <------
+
+
+--------> What does it mean to 'debug' a JavaScript program? And why should we learn to debug our code?
+
