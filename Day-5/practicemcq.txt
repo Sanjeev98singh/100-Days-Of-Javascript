@@ -82,4 +82,7 @@ Variables are assigned undefined.
 Code is actually executed and values are assigned to variables.   <-------
 
 
+-------> What is the primary purpose of the defer keyword in a script tag?
+
+
 
