@@ -69,3 +69,17 @@ Code is parsed and syntax errors are checked.
 
 -------> During the Code Execution Phase, what happens in JavaScript?
 
+
+Variables are assigned undefined.
+
+
+ Functions and variables are stored in memory.
+
+
+ Syntax errors are checked and resolved.
+
+
+Code is actually executed and values are assigned to variables.   <-------
+
+
+
