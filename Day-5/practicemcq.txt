@@ -34,4 +34,4 @@ In JavaScript, "line of execution" refers to the specific line of code currently
 
 -------> What is a 'breakpoint' in JavaScript debugging?
 
-
+A "breakpoint" in JavaScript debugging is a marker set in the code that pauses execution at a specific line, allowing us to inspect and analyze the program's state at that point. This helps in understanding and fixing issues in the code. <--------
