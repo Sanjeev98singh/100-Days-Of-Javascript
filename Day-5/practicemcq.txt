@@ -7,3 +7,5 @@ The term debug means to dry run the code before executing the code.
 It is the efficient way to execute the code before running the code to get the desired output errorfree. (In simple words reviewing the code before executing) <------
 
 -------> Can you pause a JavaScript program to see what's happening step by step? How?
+
+Yes, we can use Chrome DevTools provided by the browser to observe the step-by-step execution of a program. <------
