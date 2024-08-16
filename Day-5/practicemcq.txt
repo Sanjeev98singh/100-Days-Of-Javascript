@@ -66,3 +66,6 @@ Variables and functions are hoisted and memory is allocated.   <-------
 
 Code is parsed and syntax errors are checked.
 
+
+-------> During the Code Execution Phase, what happens in JavaScript?
+
