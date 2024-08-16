@@ -32,3 +32,6 @@ What does the term 'line of execution' mean in JavaScript?
 
 In JavaScript, "line of execution" refers to the specific line of code currently being executed by the JavaScript engine. It represents the current point in the script where the interpreter is working. <---------
 
+-------> What is a 'breakpoint' in JavaScript debugging?
+
+
