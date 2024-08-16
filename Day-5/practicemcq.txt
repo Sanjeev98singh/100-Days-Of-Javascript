@@ -54,3 +54,15 @@ Initialization Phase and Execution Phase
 
 -------> During the Memory Creation Phase, what happens in JavaScript?
 
+
+ Variables are assigned values.   <-------
+
+
+Functions are executed.
+
+
+Variables and functions are hoisted and memory is allocated.
+
+
+Code is parsed and syntax errors are checked.
+
