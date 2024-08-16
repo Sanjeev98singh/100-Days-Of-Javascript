@@ -112,6 +112,11 @@ To automatically fix errors in the script.
 To log errors to the console.
 
 
+---------> What is the Temporal Dead Zone (TDZ) in JavaScript?
+
+
+
+
 
 
 
