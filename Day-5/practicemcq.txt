@@ -1,1 +1,1 @@
-type="text/js"     due to this type attribute js file was not working. If we remove this file then js automatically will start working
+type="text/js"     due to this type attribute js file was not working. If we remove this file then js automatically will start working <------
