@@ -39,3 +39,18 @@ A "breakpoint" in JavaScript debugging is a marker set in the code that pauses e
 
 --------> What are the two main phases of JavaScript code execution?
 
+
+Parsing Phase and Execution Phase
+
+
+ Memory Allocation Phase and Execution Phase
+
+
+Memory Creation Phase and Code Execution Phase   <----------
+
+
+Initialization Phase and Execution Phase
+
+
+-------> During the Memory Creation Phase, what happens in JavaScript?
+
