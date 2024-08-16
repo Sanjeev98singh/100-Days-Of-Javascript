@@ -9,3 +9,20 @@ It is the efficient way to execute the code before running the code to get the d
 -------> Can you pause a JavaScript program to see what's happening step by step? How?
 
 Yes, we can use Chrome DevTools provided by the browser to observe the step-by-step execution of a program. <------
+
+
+
+------> How to does JavaScript code gets exected?
+
+
+Sequentially, line by line    <--------
+
+
+Randomly, based on browser preferences
+
+
+Simultaneously, across multiple threads
+
+
+Depending on the complexity of the code
+
