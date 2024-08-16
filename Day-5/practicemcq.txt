@@ -86,10 +86,10 @@ Code is actually executed and values are assigned to variables.   <-------
 
 
 
-To load the script immediately without waiting for the HTML to load.  <-------
+To load the script immediately without waiting for the HTML to load.  
 
 
-To delay the script execution until after the HTML document has been parsed.
+To delay the script execution until after the HTML document has been parsed. <-------
 
 
 To execute the script before the HTML document is parsed.
