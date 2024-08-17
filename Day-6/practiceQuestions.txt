@@ -45,3 +45,11 @@ To provide options to the use
 --------> What is the difference between prompt, confirm, and alert in JavaScript?
 
 
+alert-> Displays a message and an OK button. 
+ex-> alert("This is an alert message!"); 
+confirm-> Displays a message, an OK button, and a Cancel button. Returns true if OK is clicked, otherwise false.
+ex-> let result = confirm("Do you confirm this action?"); 
+console.log(result); 
+prompt: Displays a message, an input field, an OK button, and a Cancel button. Returns the input value if OK is clicked, otherwise null. 
+let userInput = prompt("Please enter your name:"); 
+console.log(userInput);
