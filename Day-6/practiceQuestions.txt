@@ -27,3 +27,5 @@ Step 2: Assign it to a variable ⇒ name.
 
 Step 3: Show his name in this format ⇒ Your name is ________ using `alert`.
 
+let name = prompt('Enter Your Name')  <--------
+alert('Your Name is ' + name);
