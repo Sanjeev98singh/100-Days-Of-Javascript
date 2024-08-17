@@ -33,7 +33,7 @@ This repository is a personal challenge to improve my JavaScript skills by codin
 | 3   | 2024-08-14 | Null,Undefined and Bigint Data types             |
 | 4   | 2024-08-15 | Difference between Let, Const and Var            |
 | 5   | 2024-09-16 | Javascript internal execution on chrome devtools |
-
+| 6   | 2024-09-17 | JavaScript Dialog Box                            |
 ## Projects
 
 1. **Project Name**: Description of the project and key features.
