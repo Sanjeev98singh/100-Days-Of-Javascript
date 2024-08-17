@@ -29,3 +29,7 @@ Step 3: Show his name in this format ⇒ Your name is ________ using `alert`.
 
 let name = prompt('Enter Your Name')  <--------
 alert('Your Name is ' + name);
+
+
+--------> What is the confirm input box used for in JavaScript?
+
