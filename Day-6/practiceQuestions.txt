@@ -19,3 +19,11 @@ To confirm an action with the user
 To input data from the user  <--------
 
 To provide options to the user
+
+-------->
+Step 1: Ask for one’s name using the `prompt` dialog box in JavaScript.
+
+Step 2: Assign it to a variable ⇒ name.
+
+Step 3: Show his name in this format ⇒ Your name is ________ using `alert`.
+
