@@ -8,3 +8,7 @@ prompt("Enter your name:");    <--------
 confirm("Enter your name:");
 
 input("Enter your name:")
+
+
+--------> Why do we use a prompt dialog box in JavaScript?
+
