@@ -3,3 +3,6 @@
 // let name = prompt('Whats your name btw.......🤔');
 
 // console.log('Hello', name);
+
+// let name = prompt('Enter Your Name')
+// alert('Your Name is ' + name);
