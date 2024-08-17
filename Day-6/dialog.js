@@ -4,5 +4,5 @@
 
 // console.log('Hello', name);
 
-// let name = prompt('Enter Your Name')
-// alert('Your Name is ' + name);
+let name = prompt('Enter Your Name')
+alert('Your Name is ' + name);
