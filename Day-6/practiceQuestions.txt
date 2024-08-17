@@ -12,3 +12,10 @@ input("Enter your name:")
 
 --------> Why do we use a prompt dialog box in JavaScript?
 
+To display messages to the user
+
+To confirm an action with the user
+
+To input data from the user  <--------
+
+To provide options to the user
