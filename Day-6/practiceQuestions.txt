@@ -40,3 +40,8 @@ To input data from the user
  To confirm an action with the user  <-------
 
 To provide options to the use
+
+
+--------> What is the difference between prompt, confirm, and alert in JavaScript?
+
+
