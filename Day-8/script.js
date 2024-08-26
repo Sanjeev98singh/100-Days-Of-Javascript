@@ -13,5 +13,5 @@
 // let name = '        kya kroge janke?      asas  '
 // console.log(name.trimStart().toUpperCase())
 
-let name = '        kya kroge janke?        '
-console.log(name.trim())
+// let name = '        kya kroge janke?'
+// console.log(name.trimEnd())
