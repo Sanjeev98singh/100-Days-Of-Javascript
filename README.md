@@ -39,6 +39,7 @@ This repository is a personal challenge to improve my JavaScript skills by codin
 |     |            | toLowerCase(), trim(), trimStart(), trimEnd(),   |
 |     |            | chaining property, methods with arguments,       |
 |     |            | includes(arguments), indexOf(arguments),         |
+|     |            | replace(arguments), replaceAll(arguments)        |
 |     |            |  
 ## Projects
 
