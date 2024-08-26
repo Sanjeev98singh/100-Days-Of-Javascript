@@ -58,3 +58,9 @@
 
 // let intro = 'my name is sanjeev'
 // console.log(`my age is 26 and ${intro}`)
+
+// const test = " Horray! "
+
+// console.log(test.indexOf('r'))
+
+// console.log(test.trim())
