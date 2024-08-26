@@ -35,7 +35,10 @@ This repository is a personal challenge to improve my JavaScript skills by codin
 | 5   | 2024-09-16 | Javascript internal execution on chrome devtools |
 | 6   | 2024-09-17 | JavaScript Dialog Box                            |
 | 7   | 2024-09-18 | Revision of JavaScript previous concepts         |
-
+| 8   | 2024-09-26 | Length property in JavaScript, toUpperCase(),    |
+|     |            | toLowerCase(), trim(), trimStart(), trimEnd(),   |
+|     |            | chaining property, methods with arguments,       |
+|     |            | includes(arguments)
 ## Projects
 
 1. **Project Name**: Description of the project and key features.
