@@ -1,4 +1,4 @@
-let name = 'My name is sanjeev'
+// let name = 'My name is sanjeev'
 
 // console.log(name[7]) undefined
 // console.log(name.length) 7
@@ -6,3 +6,6 @@ let name = 'My name is sanjeev'
 // console.log(name.toUpperCase()) not modified temporary
 
 // console.log(name.toLowerCase())
+
+let name = '        kya kroge janke?        '
+console.log(name.trim())
