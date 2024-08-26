@@ -34,7 +34,7 @@
 
 
 // let digits = '7654' it works on the string not the number
-let digits = '7654'
+// let digits = '7654'
 
 // console.log(digits.padStart(16, '*'))  [Running] node "c:\Users\sanjeev\OneDrive\Desktop\100 days of javascript\Day-8\script.js"
 // ************7654
@@ -44,3 +44,8 @@ let digits = '7654'
 // or
 
 // console.log(digits[3])
+
+// let asci = 'sanjeev'
+
+// // console.log(asci.charCodeAt(0)) 115
+// console.log(asci.charCodeAt(1)) 
