@@ -49,3 +49,9 @@
 
 // // console.log(asci.charCodeAt(0)) 115
 // console.log(asci.charCodeAt(1)) 
+
+let name = 'my name is sanjeev'
+
+// console.log(name.split(' ')) [ 'my', 'name', 'is', 'sanjeev' ]
+// console.log(name.split()) [ 'my name is sanjeev' ]
+// console.log(name.split('a')) [ 'my n', 'me is s', 'njeev' ]
