@@ -40,7 +40,9 @@ This repository is a personal challenge to improve my JavaScript skills by codin
 |     |            | chaining property, methods with arguments,       |
 |     |            | includes(arguments), indexOf(arguments),         |
 |     |            | replace(arguments), replaceAll(arguments)        |
-|     |            | concat(), padStart(), padEnd()
+|     |            | concat(arg, arg), padStart(arg, arg),            |
+|     |            | padEnd(arg, arg), charAt(arguments),             |
+|     |            |
 ## Projects
 
 1. **Project Name**: Description of the project and key features.
