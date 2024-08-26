@@ -36,4 +36,6 @@
 // let digits = '7654' it works on the string not the number
 let digits = '7654'
 
-console.log(digits.padStart(16, '*'))
+// console.log(digits.padStart(16, '*'))  [Running] node "c:\Users\sanjeev\OneDrive\Desktop\100 days of javascript\Day-8\script.js"
+// ************7654
+console.log(digits.padEnd(16, '*')) 
