@@ -20,3 +20,10 @@ let name = 'My name is sanjeev'
 
 // console.log(name.includes('kya kroge')) false 
 // console.log(name.includes('name')) true  
+
+// console.log(name.indexOf('q')) -1
+// console.log(name.indexOf('v')) 17
+
+// console.log(name.indexOf('name')) 3
+
+
