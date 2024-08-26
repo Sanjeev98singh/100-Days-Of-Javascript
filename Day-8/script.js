@@ -27,5 +27,5 @@ let name = 'My name is sanjeev'
 // console.log(name.indexOf('name')) 3
 
 // console.log(name.replace('My', 'Your'))
-console.log(name.replace('My', 'Your'))
+console.log(name.replaceAll('a', 'A'))
 
