@@ -38,4 +38,9 @@ let digits = '7654'
 
 // console.log(digits.padStart(16, '*'))  [Running] node "c:\Users\sanjeev\OneDrive\Desktop\100 days of javascript\Day-8\script.js"
 // ************7654
-console.log(digits.padEnd(16, '*')) 
+// console.log(digits.padEnd(16, '*')) 
+
+// console.log(digits.charAt(3))
+// or
+
+// console.log(digits[3])
