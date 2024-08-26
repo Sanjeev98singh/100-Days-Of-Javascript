@@ -64,3 +64,10 @@
 // console.log(test.indexOf('r'))
 
 // console.log(test.trim())
+
+// let str = "Hello World!";
+
+// let newStr = str.replace("World", "JavaScript");
+
+// console.log(newStr);
+
