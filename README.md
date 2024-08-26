@@ -38,7 +38,8 @@ This repository is a personal challenge to improve my JavaScript skills by codin
 | 8   | 2024-09-26 | Length property in JavaScript, toUpperCase(),    |
 |     |            | toLowerCase(), trim(), trimStart(), trimEnd(),   |
 |     |            | chaining property, methods with arguments,       |
-|     |            | includes(arguments)
+|     |            | includes(arguments), indexOf(arguments),         |
+|     |            |  
 ## Projects
 
 1. **Project Name**: Description of the project and key features.
