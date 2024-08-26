@@ -42,7 +42,7 @@ This repository is a personal challenge to improve my JavaScript skills by codin
 |     |            | replace(arguments), replaceAll(arguments)        |
 |     |            | concat(arg, arg), padStart(arg, arg),            |
 |     |            | padEnd(arg, arg), charAt(arguments),             |
-|     |            |
+|     |            | charCodeAt(arguments), split(), 
 ## Projects
 
 1. **Project Name**: Description of the project and key features.
