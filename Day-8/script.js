@@ -15,3 +15,8 @@
 
 // let name = '        kya kroge janke?'
 // console.log(name.trimEnd())
+
+let name = 'My name is sanjeev'
+
+// console.log(name.includes('kya kroge')) false 
+// console.log(name.includes('name')) true  
