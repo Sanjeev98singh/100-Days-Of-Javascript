@@ -44,7 +44,7 @@ This repository is a personal challenge to improve my JavaScript skills by codin
 |     |            | padEnd(arg, arg), charAt(arguments),             |
 |     |            | charCodeAt(arguments), split() and               |
 |     |            | template literal string                          |
-| 9   | 2024-09-27 | 
+| 9   | 2024-09-27 | Math.PI, Math.SQRT2, Math.E, Math.sqrt(),        |
 ## Projects
 
 1. **Project Name**: Description of the project and key features.
