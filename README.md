@@ -43,7 +43,8 @@ This repository is a personal challenge to improve my JavaScript skills by codin
 |     |            | concat(arg, arg), padStart(arg, arg),            |
 |     |            | padEnd(arg, arg), charAt(arguments),             |
 |     |            | charCodeAt(arguments), split() and               |
-|     |            | template literal string
+|     |            | template literal string                          |
+| 9   | 2024-09-27 | 
 ## Projects
 
 1. **Project Name**: Description of the project and key features.
