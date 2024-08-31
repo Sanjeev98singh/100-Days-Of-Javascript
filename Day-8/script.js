@@ -16,7 +16,7 @@
 // let name = '        kya kroge janke?'
 // console.log(name.trimEnd())
 
-// let name = 'My name is sanjeev'
+let name = 'My name is sanjeev'
 // let age = 26
 
 // console.log(name.includes('kya kroge')) false 
@@ -30,7 +30,7 @@
 // console.log(name.indexOf('name')) 3
 
 // console.log(name.replace('My', 'Your'))
-// console.log(name.replaceAll('a', [[[[[[[]]]]]]]]]]]]'A'))
+// console.log(name.replaceAll('a', 'A'))
 
 // console.log(name.concat(' My age is ',age)) My name is sanjeev My age is 26
 
