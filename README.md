@@ -32,10 +32,10 @@ This repository is a personal challenge to improve my JavaScript skills by codin
 |     |            | Window Object,Preserve log,No throttling and REPL|
 | 3   | 2024-08-14 | Null,Undefined and Bigint Data types             |
 | 4   | 2024-08-15 | Difference between Let, Const and Var            |
-| 5   | 2024-09-16 | Javascript internal execution on chrome devtools |
-| 6   | 2024-09-17 | JavaScript Dialog Box                            |
-| 7   | 2024-09-18 | Revision of JavaScript previous concepts         |
-| 8   | 2024-09-26 | Length property in JavaScript, toUpperCase(),    |
+| 5   | 2024-08-16 | Javascript internal execution on chrome devtools |
+| 6   | 2024-08-17 | JavaScript Dialog Box                            |
+| 7   | 2024-08-18 | Revision of JavaScript previous concepts         |
+| 8   | 2024-08-26 | Length property in JavaScript, toUpperCase(),    |
 |     |            | toLowerCase(), trim(), trimStart(), trimEnd(),   |
 |     |            | chaining property, methods with arguments,       |
 |     |            | includes(arguments), indexOf(arguments),         |
@@ -44,9 +44,10 @@ This repository is a personal challenge to improve my JavaScript skills by codin
 |     |            | padEnd(arg, arg), charAt(arguments),             |
 |     |            | charCodeAt(arguments), split() and               |
 |     |            | template literal string                          |
-| 9   | 2024-09-27 | Math.PI, Math.SQRT2, Math.E, Math.sqrt(),        |
+| 9   | 2024-08-27 | Math.PI, Math.SQRT2, Math.E, Math.sqrt(),        |
 |     |            | Math.pow(x,y), Math.floor(x), Math.ceil(x),      |
 |     |            | Math.round(x) and Math.random()                  |
+| 10  | 2024-08-31 | 
 ## Projects
 
 1. **Project Name**: Description of the project and key features.
