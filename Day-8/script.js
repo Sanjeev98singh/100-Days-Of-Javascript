@@ -47,7 +47,7 @@
 
 // console.log(digits[3])
 
-let asci = 'sanjeev'
+// let asci = 'sanjeev'
 
 // // console.log(asci.charCodeAt(0)) 115
 // console.log(asci.charCodeAt())
