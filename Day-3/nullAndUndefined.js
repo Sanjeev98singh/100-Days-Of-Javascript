@@ -30,3 +30,4 @@
 // console.log(+null) //0
 // console.log(+undefined) // NaN
 // console.log(typeof (''+undefined)) // string
+// console.log(''+undefined) // string
