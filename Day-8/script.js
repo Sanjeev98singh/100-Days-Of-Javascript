@@ -35,7 +35,7 @@
 // console.log(name.concat(' My age is ',age)) My name is sanjeev My age is 26
 
 
-// let digits = '7654' it works on the string not the number
+// let digits = '7654' it works on the string not on the number
 // let digits = '7654'
 
 // console.log(digits.padStart(16, '*'))  [Running] node "c:\Users\sanjeev\OneDrive\Desktop\100 days of javascript\Day-8\script.js"
