@@ -1,5 +1,7 @@
 // console.log(Math.PI)
 // console.log(Math.SQRT2)
+// console.log(Math.E)
+
 // const min = 25;
 // const max = 50;
 // const randomInteger = Math.floor(Math.random() * (max - min + 1)) + min;
