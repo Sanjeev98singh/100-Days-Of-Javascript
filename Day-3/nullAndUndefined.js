@@ -1,6 +1,8 @@
 // console.log(typeof 'sanjeev')
 // console.log(typeof `sanjeev singh
 //     bhadouria`)
+//     console.log(`sanjeev singh
+//         bhadouria`)    
 // console.log(typeof 100)
 // console.log(typeof +'100')
 // console.log(typeof -'100')
