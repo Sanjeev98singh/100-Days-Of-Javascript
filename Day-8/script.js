@@ -16,7 +16,7 @@
 // let name = '        kya kroge janke?'
 // console.log(name.trimEnd())
 
-let name = 'My name is sanjeev'
+// let name = 'My name is sanjeev'
 // let age = 26
 
 // console.log(name.includes('kya kroge')) false 
