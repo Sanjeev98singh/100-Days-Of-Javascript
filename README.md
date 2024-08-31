@@ -47,7 +47,7 @@ This repository is a personal challenge to improve my JavaScript skills by codin
 | 9   | 2024-08-27 | Math.PI, Math.SQRT2, Math.E, Math.sqrt(),        |
 |     |            | Math.pow(x,y), Math.floor(x), Math.ceil(x),      |
 |     |            | Math.round(x) and Math.random()                  |
-| 10  | 2024-08-31 | 
+| 10  | 2024-08-31 | Truthy and Falsy values                          |
 ## Projects
 
 1. **Project Name**: Description of the project and key features.
