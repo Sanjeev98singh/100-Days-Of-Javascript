@@ -2,3 +2,6 @@
 console.log(Boolean(0.000000009))
 console.log(Boolean(-Infinity))
 console.log(Boolean(NaN))
+console.log(Boolean(''))
+console.log(Boolean(undefined))
+console.log(Boolean(null))
