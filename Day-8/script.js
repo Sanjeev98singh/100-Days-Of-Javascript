@@ -16,11 +16,13 @@
 // let name = '        kya kroge janke?'
 // console.log(name.trimEnd())
 
-// let name = 'My name is sanjeev'
+let name = 'My name is sanjeev'
 // let age = 26
 
 // console.log(name.includes('kya kroge')) false 
 // console.log(name.includes('name')) true  
+// console.log(name.includes('s')) true
+
 
 // console.log(name.indexOf('q')) -1
 // console.log(name.indexOf('v')) 17
