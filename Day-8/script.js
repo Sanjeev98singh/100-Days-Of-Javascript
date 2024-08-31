@@ -52,6 +52,7 @@ let asci = 'sanjeev'
 // // console.log(asci.charCodeAt(0)) 115
 // console.log(asci.charCodeAt())
 // console.log(asci.charCodeAt(1)) 
+// console.log(asci.charCodeAt(1)) 
 
 // let name = 'my name is sanjeev'
 
