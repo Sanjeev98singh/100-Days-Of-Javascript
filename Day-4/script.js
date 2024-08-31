@@ -15,3 +15,4 @@
 //     + firstName + ' ' 
 //     + lastName + '. I am ' + age + ' ' + 'years old.'
 
+// console.log(userIntro)
