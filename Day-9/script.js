@@ -17,4 +17,4 @@
 // console.log(Math.floor(2.7))
 // console.log(Math.ceil(2.7))
 // console.log(Math.round(2.7))
-// console.log(Math.random(2.7))
+// document.write('sanjeev')
