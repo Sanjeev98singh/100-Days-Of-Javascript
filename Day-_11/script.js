@@ -18,3 +18,5 @@
 // console.log(userAge1 != userAge2) false
 // console.log(userAge1 !== userAge2) true
 // console.log(userAge1 != userAge2) false
+console.log(5 > 6 > 7);
+
