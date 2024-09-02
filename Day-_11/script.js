@@ -7,7 +7,7 @@
 // let userAge1 = 27
 // let userAge2 = 27
 
-let userAge1 = 27
+let userAge1 = '27'
 let userAge2 = 27
 
 // console.log(userAge1 == userAge2) false
