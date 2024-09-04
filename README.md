@@ -48,6 +48,7 @@ This repository is a personal challenge to improve my JavaScript skills by codin
 |     |            | Math.pow(x,y), Math.floor(x), Math.ceil(x),      |
 |     |            | Math.round(x) and Math.random()                  |
 | 10  | 2024-08-31 | Truthy and Falsy values                          |
+| 11  | 2024-09-04 | Truthy and Falsy values on Logical operators     |
 ## Projects
 
 1. **Project Name**: Description of the project and key features.
